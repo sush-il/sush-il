@@ -5,9 +5,10 @@
 
 
 #### I'm a developer, designer and definitely a learner !!
-Studying computer science at the University of Bath. Experience in various languages, frameworks & systems
+Aspiring Software Engineer from the UK. My passion for software lies with dreaming up ideas and making them come true with elegant interfaces. 
+Currently studying Computer Science at the Univeresity of Bath. 
 
-<h3>Technologies I've worked with</h3>
+### Technologies I've worked with
 <p>
   <img alt="Python" src="https://img.shields.io/badge/python-3670A0?style=flat-square&logo=python&logoColor=ffdd54" />
   <img alt="Java" src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" />
