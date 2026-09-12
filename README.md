@@ -5,8 +5,7 @@
 
 
 #### I'm a developer, designer and definitely a learner !!
-Software Engineer from the UK. Currently studying Computer Science at the Univeresity of Bath.
-My passion for software lies with dreaming up ideas and making them come true with elegant interfaces. 
+Software Engineer based in the UK.
 
 ### Technologies I've worked with
 <p>
